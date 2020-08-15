@@ -4,11 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ActionBarComponent } from './action-bar/action-bar.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
-  declarations: [	
+  declarations: [		
     AppComponent,
-      ActionBarComponent
+      ActionBarComponent,
+      HomeComponent
    ],
   imports: [
     BrowserModule,
