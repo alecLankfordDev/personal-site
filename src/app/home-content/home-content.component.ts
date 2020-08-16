@@ -9,6 +9,14 @@ export class HomeContentComponent implements OnInit {
 
   constructor() { }
 
+  wiproSkills = [
+    'Angular',
+    'TypeScript',
+    'HTML',
+    'CSS',
+    'RESTful APIs'
+  ]
+
   ngOnInit() {
   }
 
