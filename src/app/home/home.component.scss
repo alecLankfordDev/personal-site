@@ -1,7 +1,8 @@
+// Text Animation
 .slide-right {
   width: 100%;
   overflow: hidden;
-  margin-left: 50%;
+  margin-left: 45%;
 }
 
 .slide-right h3 {
@@ -15,7 +16,8 @@
   }
 }
 
-/* Font */
+// Font, greeting placement
 .title {
   font-family: 'Montserrat', sans-serif;
+  justify-content: center;
 }

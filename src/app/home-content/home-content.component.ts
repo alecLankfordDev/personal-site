@@ -15,7 +15,7 @@ export class HomeContentComponent implements OnInit {
     'HTML',
     'CSS',
     'RESTful APIs'
-  ]
+  ];
 
   ngOnInit() {
   }
